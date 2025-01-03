@@ -13,7 +13,6 @@ end
 # 工具库
 def tool
   pod 'Alamofire'
-  pod 'TXIMSDK_Plus_iOS'
   pod 'TXCopyrightedMedia', '1.0.3'
   pod 'TUICore'
 end
